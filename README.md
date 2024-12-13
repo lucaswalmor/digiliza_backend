@@ -1,7 +1,3 @@
-Aqui está a documentação formatada para o arquivo `README.md`:  
-
----
-
 # 📄 Documentação do Sistema de Reservas  
 
 ## 📋 Descrição do Projeto  
@@ -69,12 +65,4 @@ Este sistema permite gerenciar reservas de mesas para um restaurante. Ele inclui
    ```
    http://127.0.0.1:8000
    ```
-
 ---
-
-## 📧 Contato  
-Envie sua entrega pelo **GitHub** ou para o e-mail: [contato@digiliza.com.br](mailto:contato@digiliza.com.br)  
-
----
-
-Se precisar de ajustes ou adicionar mais seções, avise! 🚀
