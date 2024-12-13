@@ -11,11 +11,12 @@ Este sistema permite gerenciar reservas de mesas para um restaurante. Ele inclui
 - HTML  
 - CSS  
 - JavaScript  
-- Vue.js  
-- Bootstrap  
+- Vue.js 3
+- PrimeVue V4
+- Bootstrap 5.3.3
 
 **Backend:**  
-- PHP com Laravel  
+- PHP 8.3.2 com Laravel 11
 
 **Banco de Dados:**  
 - MySQL  
